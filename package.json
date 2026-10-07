@@ -1,0 +1,11 @@
+{
+  "name": "mototaxis-santa-ines-local",
+  "private": true,
+  "scripts": {
+    "start": "node preview.cjs",
+    "verify": "node verify.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
+}
